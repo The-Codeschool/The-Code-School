@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68mm"
+   height="10mm"
+   viewBox="0 0 68 10"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="thecodeschool.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.015496"
+     inkscape:cx="481.0457"
+     inkscape:cy="238.30718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g201" />
+  <defs
+     id="defs2">
+    <rect
+       x="56.130203"
+       y="142.78735"
+       width="973.90826"
+       height="482.5228"
+       id="rect257" />
+    <rect
+       x="54.16259"
+       y="345.2865"
+       width="727.13275"
+       height="444.13324"
+       id="rect113" />
+    <rect
+       x="54.16259"
+       y="345.2865"
+       width="727.13275"
+       height="444.13324"
+       id="rect113-7" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.86581,-45.090996)">
+    <g
+       id="g377">
+      <g
+         aria-label="theCode School"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.994246,-88.387328)"
+         id="text111"
+         style="font-size:55px;line-height:0;white-space:pre;shape-inside:url(#rect113-7);display:inline">
+        <g
+           id="g201">
+          <text
+             xml:space="preserve"
+             transform="translate(66.182414,358.20233)"
+             id="text255"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect257);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+               x="56.130859"
+               y="179.28032"
+               id="tspan432"><tspan
+                 style="font-style:italic;font-weight:600;font-size:28px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Semi-Bold Italic';fill:#000080"
+                 id="tspan428">the</tspan><tspan
+                 dx="2.74"
+                 style="font-style:italic;font-weight:600;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Semi-Bold Italic';letter-spacing:-2.74px;fill:#0000ff"
+                 id="tspan430">Code School</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

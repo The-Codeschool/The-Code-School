@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+body {
+  overflow: scroll; /* Show scrollbars */
+}
+
+.header-group {
+  box-shadow: 0px 4px 12px rgba(37, 38, 94, 0.06);
+}
+
+header {
+  /* box-shadow: 1px 1px 2px red; */
+  /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);*/
+}
+
+nav {
+  box-sizing: content-box;
+  line-height: 24px;
+}
+h1 {
+  color: #202033;
+  font-family: Rubik, "Nunito Sans", Arial, Helvetica, system-ui,
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+    Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 48px !important;
+  line-height: 54px;
+  font-weight: 700 !important;
+}
+
+li {
+  font-family: Rubik, "Nunito Sans", Arial, Helvetica, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue",sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 5px;
+
+}
+
+li:hover {
+  background-color: transparent;
+}
+
+/* Main Content Section Starts Here */
+
+.hero-section {
+  border-radius: 5px;
+  box-sizing: content-box;
+}
+
+.hero-section img {
+  transform: rotate3d(5deg);
+}
+p{
+    font-family: Rubik, "Nunito Sans", Arial, Helvetica, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue",sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.button-link {
+  padding: 10px;
+  background: blue;
+  border-radius: 2px;
+  color: #ebedee;
+  max-width: fit-content;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 24px;
+  box-shadow: 1px 1px 1px white;
+}
+
+
+
+
+
+
+
+
+
+/* Footer Starts here */
+footer a{
+    font-family: Rubik, "Nunito Sans", Arial, Helvetica, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue",sans-serif;
+    text-decoration: none;
+    font-size: 16px ;
+    font-weight: 500;
+    background: white !important;
+}
